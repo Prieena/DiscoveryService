@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="employee-producer"/>
+<aop-project name="ApiGatewayService"/>
+<aop-project name="testing"/>
+<aop-project name="Parser"/>
+<aop-project name="discovery-service-eureka"/>
+<aop-project name="employee-consumer"/>
+</aop-reference-model>
